@@ -1,0 +1,27 @@
+Perl Variables
+
+Scalar:
+
+$car="Mustang";
+$mileage="65536";
+$engine="3.0";
+
+
+Arrays
+
+@Cars=("Mustang", "Durango", "300D");
+@Manufacturers=("Ford", "Dodge", "Mercedes");
+
+Special Arrays
+@ARGV = < command line variables >
+@ENV  = < runtime environment variables >
+
+Hashes:
+
+%Cars = ( 'Ford', 'Mustang', 'Dodge', 'Durango', 'Mercedes', '300D' );
+
+%hash = (
+        Ford => 'Mustang',
+        Dodge => 'Durango',
+        Mercedes => '300D',
+);
