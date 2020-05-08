@@ -1,5 +1,7 @@
 #!/usr/bin/perl
 
-print "What is your name? ";
-$name=<stdin>;
-print "\nHello $name\n";
+print("Please enter your name: ");
+$name=<STDIN>;
+chomp $name;
+
+print ("Hello $name\n");
