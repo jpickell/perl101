@@ -4,7 +4,7 @@ An entry level first steps course to introduce some fundamental basics of script
 
 This is by no means comprehensive, it is instead meant to be a way for those interested in PERL to very lightly dip their mental toes into the deep pool that is PERL.
 
-Download the presentation here: <a name="Perl101.pptx">Perl 101 Presentation</a>
+Download the presentation here: [Perl 101 Presentation](Perl101.pptx)
 
 # Agenda
 
