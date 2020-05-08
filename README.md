@@ -71,6 +71,11 @@ An entry level course to introduce some fundamental basics of scripting with PER
 
 7)	Regular Expressions 
 	- scrypt.pl
+```
+	if ($ARGV[0]){$d=$ARGV[0];$d =~ tr/A-Za-z/N-ZA-Mn-za-m/;print $d ;}
+	...
+		
+```
 	
 8)	Reference
 

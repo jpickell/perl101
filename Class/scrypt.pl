@@ -14,12 +14,5 @@ print <<JKP;
 
 USAGE: scrypt.pl <text>  
 
-jasdjfklja
-a;ldjkfl
-
-aefjaklefj
-
-aweljfaklwf
-
 JKP
 }
