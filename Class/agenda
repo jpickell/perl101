@@ -64,15 +64,12 @@ Learning Perl
 
 7)	Regular Expressions 
 	- scrypt.pl
+```
+	if ($ARGV[0]){$d=$ARGV[0];$d =~ tr/A-Za-z/N-ZA-Mn-za-m/;print $d ;}
+	...
+```
 	
-8)	Some real world examples
-
-	- /admin/scripts/prod/slum.pl
-	- /admin/scripts/prod/rcu_crontab.pl
-	- /admin/scripts/prod/raw_disk_size.pl
-	- /admin/scripts/common/dev.svm/lib/svm_control.pl
-
-9)	Reference
+8)	Reference
 
 	- Perl.Com: http://www.perl.com
 	- Perlmonks: http://www.perlmonks.org
